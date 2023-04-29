@@ -1,4 +1,4 @@
 # Calculadora contruida en ReactJS
 
-npm install
-npm start
+#npm install
+#npm start
